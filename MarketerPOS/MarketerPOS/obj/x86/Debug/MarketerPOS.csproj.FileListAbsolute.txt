@@ -1,0 +1,16 @@
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\bin\Debug\MarketerPOS.exe.config
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\bin\Debug\MarketerPOS.exe
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\bin\Debug\MarketerPOS.pdb
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\bin\Debug\Entities.dll
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\bin\Debug\Entities.pdb
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.csprojResolveAssemblyReference.cache
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.AdmonArticulo.resources
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.AdmonCliente.resources
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.InputClothing.resources
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.Login.resources
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.Movimientos.resources
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.Principal.resources
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.Properties.Resources.resources
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.csproj.GenerateResource.Cache
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.exe
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\MarketerPOS\obj\x86\Debug\MarketerPOS.pdb

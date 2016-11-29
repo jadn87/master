@@ -1,0 +1,5 @@
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\Entities\bin\Debug\Entities.dll
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\Entities\bin\Debug\Entities.pdb
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\Entities\obj\Debug\Entities.dll
+C:\Users\JuanDuarte\documents\visual studio 2010\Projects\MarketerPOS\Entities\obj\Debug\Entities.pdb
